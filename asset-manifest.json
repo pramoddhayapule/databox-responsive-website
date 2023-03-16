@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/databox-responsive-website.git/static/css/main.84ae91dc.css",
-    "main.js": "/databox-responsive-website.git/static/js/main.8f7dffda.js",
-    "static/media/laptop.jpg": "/databox-responsive-website.git/static/media/laptop.45ddf500e572fb2f1d35.jpg",
-    "static/media/single.png": "/databox-responsive-website.git/static/media/single.20196aa3e7e7fa48f8f7.png",
-    "static/media/double.png": "/databox-responsive-website.git/static/media/double.8be045e6bb88be63d414.png",
-    "static/media/triple.png": "/databox-responsive-website.git/static/media/triple.4eb8f19f4b4647321484.png",
-    "index.html": "/databox-responsive-website.git/index.html",
-    "main.84ae91dc.css.map": "/databox-responsive-website.git/static/css/main.84ae91dc.css.map",
-    "main.8f7dffda.js.map": "/databox-responsive-website.git/static/js/main.8f7dffda.js.map"
+    "main.css": "/databox-responsive-website/static/css/main.84ae91dc.css",
+    "main.js": "/databox-responsive-website/static/js/main.b7dbc45b.js",
+    "static/media/laptop.jpg": "/databox-responsive-website/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/databox-responsive-website/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/databox-responsive-website/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/databox-responsive-website/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/databox-responsive-website/index.html",
+    "main.84ae91dc.css.map": "/databox-responsive-website/static/css/main.84ae91dc.css.map",
+    "main.b7dbc45b.js.map": "/databox-responsive-website/static/js/main.b7dbc45b.js.map"
   },
   "entrypoints": [
     "static/css/main.84ae91dc.css",
-    "static/js/main.8f7dffda.js"
+    "static/js/main.b7dbc45b.js"
   ]
 }

@@ -1,4 +1,4 @@
-<h1>-Databox Responsive React Website</h1>
+<h1>Databox Responsive React Website</h1>
 
 
 <h2>Description</h2>
@@ -22,13 +22,3 @@ Go to project folder terminal and type below command: <br/>
 <h4>npm start<h4/>
 <br />
 
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>

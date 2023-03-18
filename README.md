@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple website created using react.js and tailwindcss this project created to understand how to map a website to work on various devices and to work it with responsiveness.
+Project consists of a simple website created using react.js and tailwindcss this project created to understand how to develop a website to work on various devices and to work it with responsiveness.
 <br />
 
 
